@@ -35,7 +35,8 @@
             </div>
             <div class="col-md-6 col-lg-3 mb-4">
                 <div class="project-item">
-                    <div class="project-item-contents">
+                    <div class="project-item-contents">Recent Products
+
                         <a href="project-single.html">
                             <span class="project-item-category">Factory</span>
                             <h2 class="project-item-title">

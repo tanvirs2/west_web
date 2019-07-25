@@ -207,7 +207,7 @@
                             </h2>
                         </a>
                     </div>
-                    <img src="{{ asset('assets') }}/images/works_1.jpg" alt="Image" class="img-fluid">
+                    <img src="{{ asset('assets') }}/images/products/gn1.jpg" alt="Image" class="img-fluid">
                 </div>
                 <div class="project-item">
                     <div class="project-item-contents">
@@ -218,7 +218,7 @@
                             </h2>
                         </a>
                     </div>
-                    <img src="{{ asset('assets') }}/images/works_2.jpg" alt="Image" class="img-fluid">
+                    <img src="{{ asset('assets') }}/images/products/gn2.jpg" alt="Image" class="img-fluid">
                 </div>
                 <div class="project-item">
                     <div class="project-item-contents">
@@ -229,7 +229,7 @@
                             </h2>
                         </a>
                     </div>
-                    <img src="{{ asset('assets') }}/images/works_3.jpg" alt="Image" class="img-fluid">
+                    <img src="{{ asset('assets') }}/images/products/lad2.jpg" alt="Image" class="img-fluid">
                 </div>
                 <div class="project-item">
                     <div class="project-item-contents">
@@ -240,7 +240,7 @@
                             </h2>
                         </a>
                     </div>
-                    <img src="{{ asset('assets') }}/images/works_4.jpg" alt="Image" class="img-fluid">
+                    <img src="{{ asset('assets') }}/images/products/gn5.jpg" alt="Image" class="img-fluid">
                 </div>
 
 
