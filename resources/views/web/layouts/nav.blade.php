@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>West Apparels &mdash; Website by Tanvir Sarker</title>
+    <title>West Apparels &mdash; Website by WestApparelsLtd</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -74,6 +74,7 @@
                         </div>
                         <div class="text">
                             <span class="h4 d-block"> +88-02-01730019411</span>
+                            <span class="h4 d-block"> +88-01711532982</span>
                         </div>
                     </div>
                 </div>
@@ -85,6 +86,7 @@
                         </div>
                         <div class="text">
                             <span class="h4 d-block">biplob@westapparelltd.com</span>
+                            <span class="h4 d-block">ripon@westapparelltd.com</span>
                         </div>
                     </div>
                 </div>

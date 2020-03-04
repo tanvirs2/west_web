@@ -19,8 +19,59 @@
 </div>
 
 
+
 <div class="site-section">
     <div class="container">
+
+        <div class="row justify-content-center">
+            <div class="col-12 mb-1 text-center">
+                <h1 class="section-subtitle">About Us</h1>
+                <h3>At a Glance</h3>
+            </div>
+        </div>
+
+        <div class="row">
+            <pre>
+                Company Name  :  West Apparels Ltd.
+                Address  :  C-177, Enayetnagar, Lucky Bazar, Siddirganj,   Narayanganj-1400, Bangladesh
+                Corporate Office  : Flat #A4, Asset Montevista, House #16, Sector #12, Sonargoan Janapath Road, Uttara, Dhaka, Bangladesh.
+                Business Type  : Apparel Manufacturer & Exporter
+                Legal Status  : Private Limited Company
+                Nature of Production : 100% Export Oriented Knit Composite
+                Export percentage  : 100%
+                Land Area  : 52 Decimal
+                Garments Production Floor :
+                Building-01 :   I) Ground floor 7,500 sqft with 1240 knitting M/C
+                                II) 1st Floor 7,500 sqft (Finishing & Inspection Room)
+                                III) 2nd Floor 7,500 sqft (Sewing) IV) 3rd Floor 7,500 sqft (Sewing)
+                                V) 4th Floor 7,500 sqft (Management Office, Dining & Canteen)
+                                VI)Generator Room 250sqft
+                                VII) Boiler Room 250 sqft.
+                Building-02 (Shade) :  Total area 4,500 sqft (Cutting, Sample & Cad)
+                Bonded Wearhouse :  Total area 7,000 sqft.
+                Building-03 (Shade) :   I) Sub-station Room 1,000 sqft
+                                        II) Madical, Daycare & Security : 2,000 sqft.
+                Year of establishment : 2016
+                Year of commercial production : 2016
+                No. of production line  : 15
+                Minimum age of worker : 18 years
+                Minimum wages  : BDT 5,300
+                Working hours  : 8 hours a day
+                Membership  : BKMEA (1493)
+                Trade Bank  : Premier Bank Ltd
+                A/C no-12011100003997
+                Swift Code-PRMRBDDHNRG
+                Narayangonj Branch, Aljoynal Plaza, 56  S. M. Maleh Road, Tanbazar, Narayangonj
+                Country of Export : 90% of total export to Europe & 10% of total export to USA, Netherland & Australia.
+                Terms of Payment : Payment by L/C at sight & TT.
+
+            </pre>
+        </div>
+
+
+
+
+
         <div class="row">
             <div class="col-md-6 form-group">
                 <label for="fname">First Name</label>
