@@ -209,7 +209,7 @@
                     </div>
                     <img src="{{ asset('assets') }}/images/products/gn1.jpg" alt="Image" class="img-fluid">
                 </div>
-                <div class="project-item">A.S.M. Abdullah (Ripon)
+                <div class="project-item">
                     <div class="project-item-contents">
                         <a href="#">
                             <span class="project-item-category">Factory</span>
